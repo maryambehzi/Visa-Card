@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VisaCard</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_card_details">Enter Your Card Details</string>
+    <string name="card_capture">Card Capture</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="card_details_are_stored_securely">Card details are stored securely</string>
+</resources>
